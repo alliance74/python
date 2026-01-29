@@ -1,0 +1,1531 @@
+{
+    "introduction_to_probability_and_sta": {
+        "title": "Introduction to probability and statistics for engineers and scientists: Third Edition",
+        "author": "Sheldon M. Ross",
+        "publisher": "Elsevier Science",
+        "isbn": "9780080547343",
+        "inventory": {
+            "qty": 3.0,
+            "price": 440751.0,
+            "total": 1322254.0
+        }
+    },
+    "discrete_mathematics_and_its_applic": {
+        "title": "Discrete Mathematics and its Applications: Seventh Edition",
+        "author": "Kenneth H. Rosen",
+        "publisher": "McGraw-Hill",
+        "isbn": "9780077418939",
+        "inventory": {
+            "qty": 3.0,
+            "price": 234235.0,
+            "total": 702706.0
+        }
+    },
+    "applied_numerical_analysis_seventh_": {
+        "title": "Applied Numerical Analysis: Seventh Edition",
+        "author": "Prabir K. Chandra, R. Paul Singh",
+        "publisher": "CRC-Press",
+        "isbn": "9780849324543",
+        "inventory": {
+            "qty": 3.0,
+            "price": 94320.0,
+            "total": 282960.0
+        }
+    },
+    "linear_algebra_and_its_applications": {
+        "title": "Linear Algebra and Its Applications, 4th Edition",
+        "author": "David C. Lay",
+        "publisher": "Addison-Wesley",
+        "isbn": "9780321385178",
+        "inventory": {
+            "qty": 3.0,
+            "price": 114073.0,
+            "total": 342219.0
+        }
+    },
+    "discrete_and_combinatorial_mathemat": {
+        "title": "Discrete and Combinatorial Mathematics: 5th edition",
+        "author": "Ralph P. Grimaldi",
+        "publisher": "collection",
+        "isbn": "9780201726343",
+        "inventory": {
+            "qty": 3.0,
+            "price": 235883.0,
+            "total": 707650.0
+        }
+    },
+    "differential_equations_and_boundary": {
+        "title": "Differential Equations and Boundary Values Problems. Computing and Modeling: 5 edition",
+        "author": "C. Edwards, David Penney, David Calvis",
+        "publisher": "Pearson Education",
+        "isbn": "9780134837390",
+        "inventory": {
+            "qty": 3.0,
+            "price": 235883.0,
+            "total": 707650.0
+        }
+    },
+    "introduction_to_graph_theory": {
+        "title": "Introduction to Graph Theory",
+        "author": "Robin J. Wilson",
+        "publisher": "Longman",
+        "isbn": "9780273728894",
+        "inventory": {
+            "qty": 3.0,
+            "price": 170000.0,
+            "total": 510000.0
+        }
+    },
+    "second_edition": {
+        "title": "Second Edition",
+        "author": "Alice King",
+        "publisher": "Unknown Publisher",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": NaN,
+            "price": NaN,
+            "total": NaN
+        }
+    },
+    "single_variable_calculus_early_tran": {
+        "title": "Single Variable Calculus Early transcendental:  Eighth edition",
+        "author": "Howard Anton, Irl C. Bivens, Stephen Davis",
+        "publisher": "Wiley",
+        "isbn": "9780471482383",
+        "inventory": {
+            "qty": 3.0,
+            "price": 251539.0,
+            "total": 754618.0
+        }
+    },
+    "cambridge_grammar_of_english": {
+        "title": "Cambridge Grammar of English",
+        "author": "Ronald Carter, Michael McCarthy",
+        "publisher": "Cambridge University Press",
+        "isbn": "9780521588461",
+        "inventory": {
+            "qty": 1.0,
+            "price": 228907.0,
+            "total": 228907.0
+        }
+    },
+    "curriculum_development_a_textbook_f": {
+        "title": "Curriculum Development: A Textbook for Students ",
+        "author": "George Bishop",
+        "publisher": "collection",
+        "isbn": "9780333391181",
+        "inventory": {
+            "qty": 1.0,
+            "price": 20790.0,
+            "total": 20790.0
+        }
+    },
+    "practical_english_usage_": {
+        "title": "Practical English Usage ",
+        "author": "Michael Swan",
+        "publisher": "Oxford University Press",
+        "isbn": "9781716954825",
+        "inventory": {
+            "qty": 1.0,
+            "price": 191003.0,
+            "total": 191003.0
+        }
+    },
+    "the_practice_of_english_language_te": {
+        "title": "The Practice of English Language Teaching. (3rd Ed).",
+        "author": "L\u00eda D. Kamhi-Stein, Bahiyyih Hardacre, Jeremy Kelley",
+        "publisher": "University of Michigan Press",
+        "isbn": "9780472039111",
+        "inventory": {
+            "qty": 1.0,
+            "price": 54483.0,
+            "total": 54483.0
+        }
+    },
+    "a_communicative_grammar_of_english_": {
+        "title": "A communicative grammar of English third edition",
+        "author": "Geoffrey Leech, Jan Svartvik",
+        "publisher": "Taylor & Francis",
+        "isbn": "9781317869696",
+        "inventory": {
+            "qty": 1.0,
+            "price": 142387.0,
+            "total": 142387.0
+        }
+    },
+    "a_field_guide_for_science_writers_s": {
+        "title": "A field guide for science writers, second edition",
+        "author": "Unknown Author",
+        "publisher": "Oxford University Press, USA",
+        "isbn": "9780195174991",
+        "inventory": {
+            "qty": 1.0,
+            "price": 29672.0,
+            "total": 29672.0
+        }
+    },
+    "a_guide_to_research_and_writing_thi": {
+        "title": "A guide to research and writing, third edition",
+        "author": "Unknown Author",
+        "publisher": "Department of Health, Education, and Welfare, National Institute of Education",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 1.0,
+            "price": 59163.0,
+            "total": 59163.0
+        }
+    },
+    "a_practical_course_in_english_pronu": {
+        "title": "A practical course in English pronunciation With CD",
+        "author": "J. SETHI, KAMLESH SADANAND, D. V. JINDAL",
+        "publisher": "PHI Learning",
+        "isbn": "9788120325944",
+        "inventory": {
+            "qty": 1.0,
+            "price": 59163.0,
+            "total": 59163.0
+        }
+    },
+    "a_university_grammar_of_english": {
+        "title": "A university grammar of English",
+        "author": "Randolph Quirk",
+        "publisher": "collection",
+        "isbn": "9788177587500",
+        "inventory": {
+            "qty": 1.0,
+            "price": 22907.0,
+            "total": 22907.0
+        }
+    },
+    "a_workbook_on_english_grammar_and_c": {
+        "title": "A workbook on english grammar and composition",
+        "author": "Sc Gupta, Kumkum Gupta",
+        "publisher": "Arihant Prakashan",
+        "isbn": "9788183485913",
+        "inventory": {
+            "qty": 1.0,
+            "price": 146507.0,
+            "total": 146507.0
+        }
+    },
+    "academic_writing_for_graduates_stud": {
+        "title": "Academic writing for graduates students : Essential tasks and skills ,second edition",
+        "author": "John M. Swales, Christine B. Feak",
+        "publisher": "collection",
+        "isbn": "9780472088560",
+        "inventory": {
+            "qty": 1.0,
+            "price": 17139.0,
+            "total": 17139.0
+        }
+    },
+    "advanced_english_grammar_a_self_stu": {
+        "title": "Advanced English grammar : A self-study reference and practice book for advanced south asian students,with answers",
+        "author": "Martin Hewings",
+        "publisher": "University Press",
+        "isbn": "9789643672584",
+        "inventory": {
+            "qty": 6.0,
+            "price": 39991.0,
+            "total": 239947.0
+        }
+    },
+    "advanced_grammar_in_use_a_self_stud": {
+        "title": "Advanced grammar in use : A self-study reference and practice book for advanced learners of English,with answers",
+        "author": "Martin Hewings",
+        "publisher": "collection",
+        "isbn": "9781107699892",
+        "inventory": {
+            "qty": 1.0,
+            "price": 28181.0,
+            "total": 28181.0
+        }
+    },
+    "advanced_grammar_in_use_second_edit": {
+        "title": "Advanced grammar in use,second edition : A self-study reference and practice book for advanced learners of English,with answers",
+        "author": "Martin Hewings",
+        "publisher": "collection",
+        "isbn": "9780521532914",
+        "inventory": {
+            "qty": 1.0,
+            "price": 43507.0,
+            "total": 43507.0
+        }
+    },
+    "beyond_words_cultural_texts_for_rea": {
+        "title": "Beyond words : Cultural texts for Reading and writing 2nd Edition",
+        "author": "Joanne Larson, Jackie Marsh",
+        "publisher": "SAGE Publications",
+        "isbn": "9781473911420",
+        "inventory": {
+            "qty": 1.0,
+            "price": 64107.0,
+            "total": 64107.0
+        }
+    },
+    "cambridge_advanced_learner_s_dictio": {
+        "title": "Cambridge advanced learner's dictionary",
+        "author": "Unknown Author",
+        "publisher": "Cambridge University Press",
+        "isbn": "9783125401532",
+        "inventory": {
+            "qty": 1.0,
+            "price": 113547.0,
+            "total": 113547.0
+        }
+    },
+    "cambridge_english_for_job_hunting": {
+        "title": "Cambridge English for job- hunting",
+        "author": "Colm Downes",
+        "publisher": "collection",
+        "isbn": "9780521144704",
+        "inventory": {
+            "qty": 2.0,
+            "price": 72018.0,
+            "total": 144035.0
+        }
+    },
+    "cambridge_english_pronouncing_dicti": {
+        "title": "Cambridge English Pronouncing Dictionary, 18th edition = With CD",
+        "author": "Daniel Jones",
+        "publisher": "collection",
+        "isbn": "9780521765756",
+        "inventory": {
+            "qty": 2.0,
+            "price": 53066.0,
+            "total": 106131.0
+        }
+    },
+    "collins_dictionary_thesaurus": {
+        "title": "Collins Dictionary&Thesaurus",
+        "author": "Collins, Collins Dictionaries",
+        "publisher": "collection",
+        "isbn": "9780008511340",
+        "inventory": {
+            "qty": 1.0,
+            "price": 119315.0,
+            "total": 119315.0
+        }
+    },
+    "collins_english_dictionary_thesauru": {
+        "title": "Collins English Dictionary&Thesaurus",
+        "author": "Collins Dictionaries",
+        "publisher": "Collins",
+        "isbn": "9780008102883",
+        "inventory": {
+            "qty": 1.0,
+            "price": 27851.0,
+            "total": 27851.0
+        }
+    },
+    "compact_oxford_dictionary_thesaurus": {
+        "title": "Compact oxford Dictionary,thesaurus ,and word power guide",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "9780198614234",
+        "inventory": {
+            "qty": 2.0,
+            "price": 38234.0,
+            "total": 76467.0
+        }
+    },
+    "current_english_grammar_and_usage_w": {
+        "title": "Current english grammar and usage with composition",
+        "author": "Porter Gale Perrin, George H. Smith, Jim Wayne Corder",
+        "publisher": "Scott, Foresman",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 62954.0,
+            "total": 125907.0
+        }
+    },
+    "english_grammar_in_use_third_editio": {
+        "title": "English grammar in use, third edition : A reference and practical book for intermediate students of english",
+        "author": "Dhany R.Cyssco",
+        "publisher": "Puspaswara",
+        "isbn": "9789799386076",
+        "inventory": {
+            "qty": 1.0,
+            "price": 18787.0,
+            "total": 18787.0
+        }
+    },
+    "english_grammar_just_for_you": {
+        "title": "English grammar just for you",
+        "author": "Rajeevan Karal",
+        "publisher": "Oxford University Press",
+        "isbn": "9780199456130",
+        "inventory": {
+            "qty": 2.0,
+            "price": 782000.0,
+            "total": 1564000.0
+        }
+    },
+    "english_literature_enlarged_edition": {
+        "title": "English literature, Enlarged edition",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 3.0,
+            "price": 71555.0,
+            "total": 214666.0
+        }
+    },
+    "english_pronunciation_in_use_self_s": {
+        "title": "English pronunciation in use : Self-study and classroom use",
+        "author": "Mark Hancock",
+        "publisher": "Cambridge University Press",
+        "isbn": "9783125345867",
+        "inventory": {
+            "qty": 1.0,
+            "price": 31312.0,
+            "total": 31312.0
+        }
+    },
+    "essential_system_administration_sec": {
+        "title": "Essential system administration Second edition",
+        "author": "AEleen Frisch",
+        "publisher": "collection",
+        "isbn": "9780937175804",
+        "inventory": {
+            "qty": 1.0,
+            "price": 35267.0,
+            "total": 35267.0
+        }
+    },
+    "essentials_of_assessment_report_wri": {
+        "title": "Essentials of assessment report writing",
+        "author": "W. Joel Schneider, Elizabeth O. Lichtenberger, Nancy Mather, Nadeen L. Kaufman",
+        "publisher": "collection",
+        "isbn": "9781119218685",
+        "inventory": {
+            "qty": 1.0,
+            "price": 228907.0,
+            "total": 228907.0
+        }
+    },
+    "great_writing_4_great_essays_third_": {
+        "title": "Great writing 4 : Great essays,third edition",
+        "author": "Keith S. Folse, Tison Pugh",
+        "publisher": "collection",
+        "isbn": "9781424071159",
+        "inventory": {
+            "qty": 1.0,
+            "price": 12278.0,
+            "total": 12278.0
+        }
+    },
+    "how_to_read_better_and_faster_fourt": {
+        "title": "How to read better and faster, fourth edition",
+        "author": "Bharat R Sant",
+        "publisher": "ICFAI University Press",
+        "isbn": "9788131403440",
+        "inventory": {
+            "qty": 1.0,
+            "price": 68227.0,
+            "total": 68227.0
+        }
+    },
+    "how_to_read_faster_and_recall_more_": {
+        "title": "How to read faster and recall more Learn the art of speed reading with maximum recall",
+        "author": "Gordon Wainwright",
+        "publisher": "How To Books",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 1.0,
+            "price": 3296.0,
+            "total": 3296.0
+        }
+    },
+    "how_to_research_third_edition": {
+        "title": "How to research, third edition",
+        "author": "Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams",
+        "publisher": "collection",
+        "isbn": "9780226062648",
+        "inventory": {
+            "qty": 1.0,
+            "price": 59987.0,
+            "total": 59987.0
+        }
+    },
+    "how_to_write_essays_a_step_by_step_": {
+        "title": "How to write essays : A step-by-step guide for all levels,with sample essays 2nd edition",
+        "author": "Exam Writing Masters",
+        "publisher": "Exam Writing Masters",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 1.0,
+            "price": 31147.0,
+            "total": 31147.0
+        }
+    },
+    "modern_english_grammar_structure_me": {
+        "title": "Modern English grammar : Structure,meanings and usage",
+        "author": "Edward Adolf Sonnenschein, Edith Archibald",
+        "publisher": "collection",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 54714.0,
+            "total": 109427.0
+        }
+    },
+    "longman_dictionary_of_contemporary_": {
+        "title": "Longman Dictionary of contemporary English",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 9394.0,
+            "total": 18787.0
+        }
+    },
+    "oxford_advanced_learner_s_dictionar": {
+        "title": "Oxford Advanced learner's dictionary of current english, 8th edition",
+        "author": "Albert Sydney Hornby, Joanna Turnbull",
+        "publisher": "collection",
+        "isbn": "9780194799003",
+        "inventory": {
+            "qty": 2.0,
+            "price": 17634.0,
+            "total": 35267.0
+        }
+    },
+    "oxford_dictionary_of_english_second": {
+        "title": "Oxford dictionary of English, second edition, revised",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 1.0,
+            "price": 213440.0,
+            "total": 213440.0
+        }
+    },
+    "oxford_dictionary_of_english_third_": {
+        "title": "Oxford dictionary of English, third edition",
+        "author": "H. Kawakami",
+        "publisher": "collection",
+        "isbn": "9781981576975",
+        "inventory": {
+            "qty": 1.0,
+            "price": 68227.0,
+            "total": 68227.0
+        }
+    },
+    "oxford_english_for_electronics": {
+        "title": "Oxford english for electronics",
+        "author": "Eric H. Glendinning, John McEwan",
+        "publisher": "collection",
+        "isbn": "9780194573856",
+        "inventory": {
+            "qty": 7.0,
+            "price": 29895.0,
+            "total": 209263.0
+        }
+    },
+    "oxford_english_for_information_tech": {
+        "title": "Oxford English for information technology : Teacher's guide",
+        "author": "Eric H. Glendinning",
+        "publisher": "Cornelsen Verlag GmbH + C",
+        "isbn": "9783464134290",
+        "inventory": {
+            "qty": 10.0,
+            "price": 52242.0,
+            "total": 522416.0
+        }
+    },
+    "panorama_reading_3_student_book_bui": {
+        "title": "Panorama Reading 3 Student Book: Building Perspective Through Reading 1st Edition",
+        "author": "Unknown Author",
+        "publisher": "Department of Health, Education, and Welfare, National Institute of Education",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 1.0,
+            "price": 8116.0,
+            "total": 8116.0
+        }
+    },
+    "python_machine_learning_from_scratc": {
+        "title": "Python Machine Learning From Scratch - Step by Step Guide with Scikit-Learn and TensorFlow",
+        "author": "Daniel Nedal",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "isbn": "9781724264374",
+        "inventory": {
+            "qty": 6.0,
+            "price": 75918.0,
+            "total": 455506.0
+        }
+    },
+    "transformative_artificial_intellige": {
+        "title": "Transformative Artificial Intelligence (AI) Driverless Self-Driving Cars: Practical Advances in AI and Machine Learning",
+        "author": "Lance Eliot",
+        "publisher": "Lbe Press Publishing",
+        "isbn": "9780692085967",
+        "inventory": {
+            "qty": 4.0,
+            "price": 40129.0,
+            "total": 160515.0
+        }
+    },
+    "python_machine_learning_a_technical": {
+        "title": "Python Machine Learning: A Technical Approach To Python Machine Learning For Beginners",
+        "author": "Wei-Meng Lee",
+        "publisher": "Wiley",
+        "isbn": "9781119545637",
+        "inventory": {
+            "qty": 6.0,
+            "price": 26807.0,
+            "total": 160843.0
+        }
+    },
+    "robot_is_the_boss_how_to_do_busines": {
+        "title": "Robot is the Boss: How to do Business with Artificial Intelligence",
+        "author": "Artur Kiulian",
+        "publisher": "Artur Kiulian",
+        "isbn": "9780692945407",
+        "inventory": {
+            "qty": 4.0,
+            "price": 157137.0,
+            "total": 628547.0
+        }
+    },
+    "building_intelligent_systems_a_guid": {
+        "title": "Building Intelligent Systems: A Guide to Machine Learning Engineering",
+        "author": "Geoff Hulten",
+        "publisher": "Apress",
+        "isbn": "9781484234327",
+        "inventory": {
+            "qty": 4.0,
+            "price": 41777.0,
+            "total": 167107.0
+        }
+    },
+    "hands_on_machine_learning_with_scik": {
+        "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition",
+        "author": "Aur\u00e9lien G\u00e9ron",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781492032618",
+        "inventory": {
+            "qty": 4.0,
+            "price": 74737.0,
+            "total": 298947.0
+        }
+    },
+    "python_data_science_handbook_essent": {
+        "title": "Python Data Science Handbook: Essential Tools for Working with Data 1st Edition",
+        "author": "Jake VanderPlas",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781098121198",
+        "inventory": {
+            "qty": 12.0,
+            "price": 77098.0,
+            "total": 925181.0
+        }
+    },
+    "deep_learning_adaptive_computation_": {
+        "title": "Deep Learning (Adaptive Computation and Machine Learning series)",
+        "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+        "publisher": "collection",
+        "isbn": "9780262035613",
+        "inventory": {
+            "qty": 4.0,
+            "price": 103742.0,
+            "total": 414966.0
+        }
+    },
+    "php_mysql_the_missing_manual": {
+        "title": "PHP & MySQL: The Missing Manual",
+        "author": "Ellie Quigley, Marko Gargenta",
+        "publisher": "Pearson Education",
+        "isbn": "9780138006020",
+        "inventory": {
+            "qty": 12.0,
+            "price": 26587.0,
+            "total": 319046.0
+        }
+    },
+    "php_and_mysql_web_development": {
+        "title": "PHP and MySQL Web Development",
+        "author": "Luke Welling, Laura Thomson",
+        "publisher": "collection",
+        "isbn": "9780672325250",
+        "inventory": {
+            "qty": 10.0,
+            "price": 72978.0,
+            "total": 729784.0
+        }
+    },
+    "programming_php_creating_dynamic_we": {
+        "title": "Programming PHP: Creating Dynamic Web Pages ",
+        "author": "Kevin Tatroe, Peter MacIntyre",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781492054108",
+        "inventory": {
+            "qty": 12.0,
+            "price": 35898.0,
+            "total": 430781.0
+        }
+    },
+    "learning_php_mysql_javascript_css_a": {
+        "title": "Learning PHP, MySQL, JavaScript, & CSS: A Step-by-Step Guide to Creating Dynamic Websites",
+        "author": "Robin Nixon",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781098152321",
+        "inventory": {
+            "qty": 12.0,
+            "price": 13650.0,
+            "total": 163805.0
+        }
+    },
+    "murach_s_php_and_mysql": {
+        "title": "Murach\u2019s PHP and MySQL",
+        "author": "Joel Murach, Ray Harris",
+        "publisher": "collection",
+        "isbn": "9781943873005",
+        "inventory": {
+            "qty": 6.0,
+            "price": 77098.0,
+            "total": 462590.0
+        }
+    },
+    "php_in_action_objects_design_agilit": {
+        "title": "PHP In Action: Objects, Design, Agility: Modern Software Practices For Php",
+        "author": "Dagfinn Reiersol, Marcus Baker, Chris Shiflett",
+        "publisher": "Dreamtech Press",
+        "isbn": "9788177227680",
+        "inventory": {
+            "qty": 6.0,
+            "price": 52378.0,
+            "total": 314270.0
+        }
+    },
+    "php_a_beginner_s_guide": {
+        "title": "PHP: A Beginner\u2019s Guide",
+        "author": "Vikram Vaswani",
+        "publisher": "collection",
+        "isbn": "9780071549028",
+        "inventory": {
+            "qty": 11.0,
+            "price": 60618.0,
+            "total": 666802.0
+        }
+    },
+    "head_first_php_mysql": {
+        "title": "Head First PHP & MySQL",
+        "author": "Lynn Beighley, Michael Morrison",
+        "publisher": "collection",
+        "isbn": "9780596006303",
+        "inventory": {
+            "qty": 12.0,
+            "price": 36525.0,
+            "total": 438295.0
+        }
+    },
+    "php_mysql_novice_to_ninja": {
+        "title": "PHP & MySQL Novice to Ninja",
+        "author": "Ellie Quigley, Marko Gargenta",
+        "publisher": "Pearson Education",
+        "isbn": "9780138006020",
+        "inventory": {
+            "qty": 12.0,
+            "price": 33426.0,
+            "total": 401117.0
+        }
+    },
+    "the_joy_of_php_programming_a_beginn": {
+        "title": "The Joy of PHP Programming: A Beginner\u2019s Guide to Programming Interactive Web Applications with PHP and MySQL",
+        "author": "Alan Forbes",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "isbn": "9781494267353",
+        "inventory": {
+            "qty": 12.0,
+            "price": 28153.0,
+            "total": 337833.0
+        }
+    },
+    "learn_python_3_the_hard_way": {
+        "title": "Learn Python 3 the Hard Way",
+        "author": "Zed Shaw",
+        "publisher": "collection",
+        "isbn": "9780133124347",
+        "inventory": {
+            "qty": 12.0,
+            "price": 36558.0,
+            "total": 438691.0
+        }
+    },
+    "effective_computation_in_physics_fi": {
+        "title": "Effective Computation in Physics: Field Guide to Research with Python",
+        "author": "Anthony Scopatz, Kathryn D. Huff",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781491901595",
+        "inventory": {
+            "qty": 6.0,
+            "price": 57954.0,
+            "total": 347726.0
+        }
+    },
+    "think_python_how_to_think_like_a_co": {
+        "title": "Think Python: How to Think Like a Computer Scientist, 2nd edition",
+        "author": "Allen B. Downey",
+        "publisher": "O'Reilly Media, Incorporated",
+        "isbn": "9781098155438",
+        "inventory": {
+            "qty": 4.0,
+            "price": 51665.0,
+            "total": 206659.0
+        }
+    },
+    "invent_your_own_computer_games_with": {
+        "title": "Invent Your Own Computer Games with Python, 4th edition",
+        "author": "Al Sweigart",
+        "publisher": "No Starch Press",
+        "isbn": "9781593277956",
+        "inventory": {
+            "qty": 12.0,
+            "price": 29702.0,
+            "total": 356423.0
+        }
+    },
+    "head_first_python_2nd_edition": {
+        "title": "Head-First Python, 2nd edition",
+        "author": "Not Found",
+        "publisher": "Not Found",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 12.0,
+            "price": 87646.0,
+            "total": 1051747.0
+        }
+    },
+    "python_crash_course": {
+        "title": "Python Crash Course",
+        "author": "Error",
+        "publisher": "Error",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 12.0,
+            "price": 39013.0,
+            "total": 468157.0
+        }
+    },
+    "lab_manual_for_murach_s_html5_and_c": {
+        "title": "Lab Manual for Murach's HTML5 and CSS3",
+        "author": "Not Found",
+        "publisher": "Not Found",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 156066.0,
+            "total": 312131.0
+        }
+    },
+    "html5_a_complete_guide": {
+        "title": "Html5 a Complete Guide",
+        "author": "Bart Weller, Lori Calcott",
+        "publisher": "collection",
+        "isbn": "9781430240150",
+        "inventory": {
+            "qty": 3.0,
+            "price": 139475.0,
+            "total": 418426.0
+        }
+    },
+    "html5_for_masterminds": {
+        "title": "HTML5 for Masterminds",
+        "author": "J D Gauchat",
+        "publisher": "John D Gauchat",
+        "isbn": "9780991817870",
+        "inventory": {
+            "qty": 2.0,
+            "price": 40706.0,
+            "total": 81411.0
+        }
+    },
+    "mastering_bootstrap_4_master_the_la": {
+        "title": "Mastering Bootstrap 4: Master the latest version of Bootstrap 4 to build highly customized responsive web apps",
+        "author": "Unknown Author",
+        "publisher": "MDPI AG",
+        "isbn": "9783036500263",
+        "inventory": {
+            "qty": 2.0,
+            "price": 62954.0,
+            "total": 125907.0
+        }
+    },
+    "html_css_and_javascript_all_in_one": {
+        "title": "HTML, CSS, and JavaScript All in One",
+        "author": "Jennifer Kyrnin, Julie C. Meloni",
+        "publisher": "collection",
+        "isbn": "9780672338083",
+        "inventory": {
+            "qty": 2.0,
+            "price": 40706.0,
+            "total": 81411.0
+        }
+    },
+    "learning_php_mysql_javascript_with_": {
+        "title": "Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5",
+        "author": "Robin Nixon",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781098152321",
+        "inventory": {
+            "qty": 2.0,
+            "price": 48946.0,
+            "total": 97891.0
+        }
+    },
+    "getting_mean_with_mongo_express_ang": {
+        "title": "Getting Mean with Mongo, Express, Angular, and Node",
+        "author": "Simon D. Holmes",
+        "publisher": "Manning Publications",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 50594.0,
+            "total": 101187.0
+        }
+    },
+    "javascript_for_impatient_programmer": {
+        "title": "JavaScript for impatient programmers",
+        "author": "Axel Rauschmayer",
+        "publisher": "Amazon Digital Services LLC - Kdp",
+        "isbn": "9781091210097",
+        "inventory": {
+            "qty": 2.0,
+            "price": 34114.0,
+            "total": 68227.0
+        }
+    },
+    "web_programming_with_html5_css_and_": {
+        "title": "Web Programming with HTML5, CSS, and JavaScript Pap/Psc Edition,",
+        "author": "Dean",
+        "publisher": "Jones & Bartlett Learning",
+        "isbn": "9781284091793",
+        "inventory": {
+            "qty": 2.0,
+            "price": 149474.0,
+            "total": 298947.0
+        }
+    },
+    "programming_javascript_applications": {
+        "title": "Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Moderns JS Libraries,",
+        "author": "Eric Hamilton",
+        "publisher": "O'Reilly Media, Incorporated",
+        "isbn": "9781449320942",
+        "inventory": {
+            "qty": 2.0,
+            "price": 39058.0,
+            "total": 78115.0
+        }
+    },
+    "advanced_javascript_speed_up_web_de": {
+        "title": "Advanced JavaScript: Speed up web development with the powerful features and benefits of JavaScript",
+        "author": "Zachary Shute",
+        "publisher": "Packt Publishing",
+        "isbn": "9781789803891",
+        "inventory": {
+            "qty": 2.0,
+            "price": 38234.0,
+            "total": 76467.0
+        }
+    },
+    "fundamentals_of_database_systems_7t": {
+        "title": "Fundamentals of Database Systems. 7th Ed",
+        "author": "S. K. Singh",
+        "publisher": "Dorling Kindersley (India)",
+        "isbn": "9788131760925",
+        "inventory": {
+            "qty": 5.0,
+            "price": 260845.0,
+            "total": 1304227.0
+        }
+    },
+    "fundamentals_of_database_systems_5t": {
+        "title": "Fundamentals of Database Systems. 5th Ed",
+        "author": "Elvis Foster, Shripad Godbole",
+        "publisher": "CRC Press",
+        "isbn": "9781000562125",
+        "inventory": {
+            "qty": 5.0,
+            "price": 157845.0,
+            "total": 789227.0
+        }
+    },
+    "database_systems_4th_ed": {
+        "title": "Database Systems 4th Ed",
+        "author": "Albert K.W. Yeung, G. Brent Hall, George Brent Hall",
+        "publisher": "Springer Netherlands",
+        "isbn": "9781402053924",
+        "inventory": {
+            "qty": 5.0,
+            "price": 87805.0,
+            "total": 439027.0
+        }
+    },
+    "database_concepts_8th_ed": {
+        "title": "Database Concepts 8th Ed",
+        "author": "Elvis Foster, Shripad Godbole",
+        "publisher": "CRC Press",
+        "isbn": "9781000562125",
+        "inventory": {
+            "qty": 5.0,
+            "price": 153725.0,
+            "total": 768627.0
+        }
+    },
+    "concepts_of_database_management": {
+        "title": "Concepts of Database Management",
+        "author": "Philip J. Pratt, Joseph J. Adamski",
+        "publisher": "Cengage Learning",
+        "isbn": "9780538745321",
+        "inventory": {
+            "qty": 5.0,
+            "price": 116645.0,
+            "total": 583227.0
+        }
+    },
+    "database_systems_design_implementat": {
+        "title": "Database Systems: Design, Implementation, & Management",
+        "author": "Carlos Coronel, Steven Morris",
+        "publisher": "collection",
+        "isbn": "9780357673034",
+        "inventory": {
+            "qty": 5.0,
+            "price": 153725.0,
+            "total": 768627.0
+        }
+    },
+    "databases_illuminated": {
+        "title": "Databases Illuminated",
+        "author": "Catherine M. Ricardo",
+        "publisher": "collection",
+        "isbn": "9780763733148",
+        "inventory": {
+            "qty": 5.0,
+            "price": 157845.0,
+            "total": 789227.0
+        }
+    },
+    "computer_networking_a_top_down_appr": {
+        "title": "Computer Networking: A Top-Down Approach (6th Edition)",
+        "author": "Andrew T. Shvets",
+        "publisher": "Apress",
+        "isbn": "9781484254288",
+        "inventory": {
+            "qty": 5.0,
+            "price": 75445.0,
+            "total": 377227.0
+        }
+    },
+    "computer_networks_5th_edition_": {
+        "title": "Computer Networks (5th Edition)",
+        "author": "Andrew S. Tanenbaum, David Wetherall",
+        "publisher": "collection",
+        "isbn": "9781292024226",
+        "inventory": {
+            "qty": 5.0,
+            "price": 150000.0,
+            "total": 750000.0
+        }
+    },
+    "networking_for_beginners": {
+        "title": "Networking for Beginners",
+        "author": "Joseph W. Habraken",
+        "publisher": "collection",
+        "isbn": "9780789729118",
+        "inventory": {
+            "qty": 5.0,
+            "price": 34245.0,
+            "total": 171227.0
+        }
+    },
+    "computer_networks_and_internets_6th": {
+        "title": "Computer Networks and Internets, 6Th Edition",
+        "author": "Douglas Comer",
+        "publisher": "Pearson/Prentice Hall",
+        "isbn": "9780136061274",
+        "inventory": {
+            "qty": 5.0,
+            "price": 34245.0,
+            "total": 171227.0
+        }
+    },
+    "network_security_essentials_applica": {
+        "title": "Network Security Essentials Applications and Standards (5th Edition)",
+        "author": "William Stallings",
+        "publisher": "Pearson Education Limited",
+        "isbn": "9780273793809",
+        "inventory": {
+            "qty": 5.0,
+            "price": 162130.0,
+            "total": 810651.0
+        }
+    },
+    "data_communications_and_computer_ne": {
+        "title": "Data communications and Computer Networks: A Business User's Approach",
+        "author": "Curt White",
+        "publisher": "Cengage Learning",
+        "isbn": "9781423903031",
+        "inventory": {
+            "qty": 5.0,
+            "price": 162789.0,
+            "total": 813947.0
+        }
+    },
+    "introduction_to_computer_networks_a": {
+        "title": "Introduction to Computer Networks and Cybersecurity",
+        "author": "Chwan-Hwa (John) Wu, J. David Irwin",
+        "publisher": "CRC Press",
+        "isbn": "9781466572140",
+        "inventory": {
+            "qty": 5.0,
+            "price": 145485.0,
+            "total": 727427.0
+        }
+    },
+    "wireless_networking_absolute_beginn": {
+        "title": "Wireless Networking Absolute Beginner's Guide",
+        "author": "Michael Miller",
+        "publisher": "collection",
+        "isbn": "9780133381306",
+        "inventory": {
+            "qty": 5.0,
+            "price": 34245.0,
+            "total": 171227.0
+        }
+    },
+    "data_structures_and_algorithms_in_j": {
+        "title": "Data Structures and Algorithms in Java Second Edition",
+        "author": "Sartaj Sahni",
+        "publisher": "Silicon Press",
+        "isbn": "9780929306339",
+        "inventory": {
+            "qty": 4.0,
+            "price": 50017.0,
+            "total": 200067.0
+        }
+    },
+    "code_complete_a_practical_handbook_": {
+        "title": "Code Complete: A Practical Handbook of Software Construction, Second Edition",
+        "author": "Steve McConnell",
+        "publisher": "collection",
+        "isbn": "9781556154843",
+        "inventory": {
+            "qty": 4.0,
+            "price": 70617.0,
+            "total": 282467.0
+        }
+    },
+    "the_pragmatic_programmer_from_journ": {
+        "title": "The Pragmatic Programmer: From Journeyman to Master 1st edition",
+        "author": "Andrew Hunt, David Thomas",
+        "publisher": "Pearson Education",
+        "isbn": "9780132119177",
+        "inventory": {
+            "qty": 3.0,
+            "price": 85915.0,
+            "total": 257746.0
+        }
+    },
+    "principles_of_programming_computer_": {
+        "title": "Principles of Programming: Computer programming for kids and beginners Kindle Edition  ",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 5.0,
+            "price": 31114.0,
+            "total": 155571.0
+        }
+    },
+    "the_c_programming_language_2nd_edit": {
+        "title": "The C Programming Language (2nd Edition)",
+        "author": "Not Found",
+        "publisher": "Not Found",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 6.0,
+            "price": 71798.0,
+            "total": 430786.0
+        }
+    },
+    "learn_c_the_hard_way": {
+        "title": "Learn C the Hard Way",
+        "author": "Zed Shaw",
+        "publisher": "collection",
+        "isbn": "9780321884923",
+        "inventory": {
+            "qty": 4.0,
+            "price": 58257.0,
+            "total": 233027.0
+        }
+    },
+    "c_programming_a_modern_approach_2_e": {
+        "title": "C Programming: A Modern Approach,2 edition",
+        "author": "Kim N. King",
+        "publisher": "W.W. Norton",
+        "isbn": "9780393979503",
+        "inventory": {
+            "qty": 6.0,
+            "price": 154198.0,
+            "total": 925186.0
+        }
+    },
+    "effective_modern_c_42_specific_ways": {
+        "title": "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14;1 edition",
+        "author": "Adam B. Singer",
+        "publisher": "Apress",
+        "isbn": "9781484230572",
+        "inventory": {
+            "qty": 4.0,
+            "price": 58669.0,
+            "total": 234675.0
+        }
+    },
+    "the_c_programming_language_4th_edit": {
+        "title": "The C++ Programming Language (4th Edition)",
+        "author": "Bjarne Stroustrup",
+        "publisher": "Pearson Education",
+        "isbn": "9780133522853",
+        "inventory": {
+            "qty": 4.0,
+            "price": 70617.0,
+            "total": 282467.0
+        }
+    },
+    "accelerated_c_practical_programming": {
+        "title": "Accelerated C++: Practical Programming by Example; 1 edition",
+        "author": "Michael D. Adams",
+        "publisher": "Michael Adams",
+        "isbn": "9781550585384",
+        "inventory": {
+            "qty": 4.0,
+            "price": 72347.0,
+            "total": 289389.0
+        }
+    },
+    "programming_principles_and_practice": {
+        "title": "Programming: Principles and Practice Using C++; 1 edition ",
+        "author": "Michael D. Adams",
+        "publisher": "Michael Adams",
+        "isbn": "9781550585384",
+        "inventory": {
+            "qty": 2.0,
+            "price": 26862.0,
+            "total": 53725.0
+        }
+    },
+    "java_programming_for_kids_parents_a": {
+        "title": "Java Programming for Kids, Parents and Grandparents (java Kids) by Yuri Fain )",
+        "author": "Yakov Fain",
+        "publisher": "Smart Data Processing, Incorporated",
+        "isbn": "9780971843950",
+        "inventory": {
+            "qty": 6.0,
+            "price": 88278.0,
+            "total": 529666.0
+        }
+    },
+    "head_first_java_2nd_edition_": {
+        "title": "Head First Java; 2nd edition ",
+        "author": "Kathy Sierra, Bert Bates",
+        "publisher": "collection",
+        "isbn": "9780596800765",
+        "inventory": {
+            "qty": 4.0,
+            "price": 111817.0,
+            "total": 447267.0
+        }
+    },
+    "head_first_design_patterns_1st_edit": {
+        "title": "Head First Design Patterns; 1st edition",
+        "author": "Eric Freeman, Elisabeth Robson, Elisabeth Freeman, Kathy Sierra, Bert Bates",
+        "publisher": "collection",
+        "isbn": "9780596007126",
+        "inventory": {
+            "qty": 4.0,
+            "price": 54137.0,
+            "total": 216547.0
+        }
+    },
+    "effective_java_3_edition": {
+        "title": "Effective Java; 3 edition",
+        "author": "Joshua Bloch",
+        "publisher": "Pearson Education",
+        "isbn": "9780134686042",
+        "inventory": {
+            "qty": 2.0,
+            "price": 50676.0,
+            "total": 101352.0
+        }
+    },
+    "java_concurrency_in_practice_1_edit": {
+        "title": "Java Concurrency in Practice; 1 edition ",
+        "author": "Brian Goetz, Tim Peierls",
+        "publisher": "Addison Wesley Professional",
+        "isbn": "9788131735619",
+        "inventory": {
+            "qty": 2.0,
+            "price": 46556.0,
+            "total": 93112.0
+        }
+    },
+    "java_generics_and_collections_1_edi": {
+        "title": "Java Generics and Collections; 1 edition ",
+        "author": "Maurice Naftalin, Philip Wadler",
+        "publisher": "O'Reilly",
+        "isbn": "9780596527754",
+        "inventory": {
+            "qty": 4.0,
+            "price": 54796.0,
+            "total": 219184.0
+        }
+    },
+    "java_performance_1_edition_": {
+        "title": "Java Performance; 1 edition ",
+        "author": "David A. Chappell, Tyler Jewell",
+        "publisher": "O'Reilly",
+        "isbn": "9780596002695",
+        "inventory": {
+            "qty": 2.0,
+            "price": 54714.0,
+            "total": 109427.0
+        }
+    },
+    "java_puzzlers_1_edition_": {
+        "title": "Java Puzzlers; 1 edition ",
+        "author": "Ian F. Darwin",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781492072553",
+        "inventory": {
+            "qty": 2.0,
+            "price": 50676.0,
+            "total": 101352.0
+        }
+    },
+    "head_first_object_oriented_analysis": {
+        "title": "Head First Object-Oriented Analysis and Design; 1 edition",
+        "author": "Brett McLaughlin, Gary Pollice, David West",
+        "publisher": "collection",
+        "isbn": "9780596008673",
+        "inventory": {
+            "qty": 4.0,
+            "price": 70617.0,
+            "total": 282467.0
+        }
+    },
+    "thinking_in_java_4_edition_": {
+        "title": "Thinking in Java; 4 edition ",
+        "author": "Bruce Eckel",
+        "publisher": "Prentice Hall",
+        "isbn": "9780131002876",
+        "inventory": {
+            "qty": 4.0,
+            "price": 78857.0,
+            "total": 315427.0
+        }
+    },
+    "java_se_8_for_the_really_impatient_": {
+        "title": "Java SE 8 for the Really Impatient; 1 edition",
+        "author": "Cay S. Horstmann",
+        "publisher": "collection",
+        "isbn": "9780133430196",
+        "inventory": {
+            "qty": 2.0,
+            "price": 50676.0,
+            "total": 101352.0
+        }
+    },
+    "java_in_a_nutshell_\u00e9dition_7th_revi": {
+        "title": "Java in a Nutshell, \u00c9dition : 7th Revised edition ",
+        "author": "Benjamin J. Evans, David Flanagan",
+        "publisher": "O'Reilly Media",
+        "isbn": "9781492037224",
+        "inventory": {
+            "qty": 2.0,
+            "price": 51418.0,
+            "total": 102835.0
+        }
+    },
+    "soft_skills_the_software_developer_": {
+        "title": "Soft Skills: The software developer's life manual ",
+        "author": "John Z. Sonmez",
+        "publisher": "Manning Publications",
+        "isbn": "9781617292392",
+        "inventory": {
+            "qty": 1.0,
+            "price": 46638.0,
+            "total": 46638.0
+        }
+    },
+    "android_programming_the_big_nerd_ra": {
+        "title": "Android Programming: The Big Nerd Ranch Guide (3rd Edition) ",
+        "author": "Bill Phillips, Chris Stewart",
+        "publisher": "Pearson Education",
+        "isbn": "9780134171500",
+        "inventory": {
+            "qty": 4.0,
+            "price": 70617.0,
+            "total": 282467.0
+        }
+    },
+    "mobile_app_development_with_html5_1": {
+        "title": "Mobile App Development with HTML5 1st Edition By ",
+        "author": "Richard Rodger",
+        "publisher": "collection",
+        "isbn": "9781118203354",
+        "inventory": {
+            "qty": 2.0,
+            "price": 30076.0,
+            "total": 60152.0
+        }
+    },
+    "beginning_hybrid_mobile_application": {
+        "title": "Beginning Hybrid Mobile Application Development 1st ed. Edition",
+        "author": "Mahesh Panhale",
+        "publisher": "collection",
+        "isbn": "9781484213148",
+        "inventory": {
+            "qty": 2.0,
+            "price": 55538.0,
+            "total": 111075.0
+        }
+    },
+    "getting_started_multimedia_design_": {
+        "title": "Getting Started Multimedia Design ",
+        "author": "Janine Warner, David LaFontaine",
+        "publisher": "Wiley",
+        "isbn": "9781118707814",
+        "inventory": {
+            "qty": 1.0,
+            "price": 29994.0,
+            "total": 29994.0
+        }
+    },
+    "designing_brand_identity_an_essenti": {
+        "title": "Designing Brand Identity: An Essential Guide for the Whole Branding Team 3rd Edition",
+        "author": "Alina Wheeler",
+        "publisher": "Wiley",
+        "isbn": "9781118431634",
+        "inventory": {
+            "qty": 2.0,
+            "price": 103330.0,
+            "total": 206659.0
+        }
+    },
+    "the_elements_of_typographic_style_v": {
+        "title": "The Elements of Typographic Style: Version 4.0: 20th Anniversary Edition Fourth Edition",
+        "author": "Ren\u00e9e Stevens",
+        "publisher": "Rocky Nook",
+        "isbn": "9781681986005",
+        "inventory": {
+            "qty": 1.0,
+            "price": 23402.0,
+            "total": 23402.0
+        }
+    },
+    "the_animator_s_survival_kit_a_manua": {
+        "title": "The Animator's Survival Kit: A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators; Fourth Edition, Revised edition ",
+        "author": "Catherine Winder, Zahra Dowlatabadi",
+        "publisher": "CRC Press",
+        "isbn": "9781136136054",
+        "inventory": {
+            "qty": 2.0,
+            "price": 46474.0,
+            "total": 92947.0
+        }
+    },
+    "cartoon_animation_the_collector_s_s": {
+        "title": "Cartoon Animation ( the Collector's Series) Paperback \u2013 1994",
+        "author": "Catherine Winder, Zahra Dowlatabadi",
+        "publisher": "CRC Press",
+        "isbn": "9781136136054",
+        "inventory": {
+            "qty": 2.0,
+            "price": 30158.0,
+            "total": 60317.0
+        }
+    },
+    "foundations_of_embedded_systems_stu": {
+        "title": "Foundations of Embedded Systems (Studies in Systems, Decision and Control) 1st ed. 2019 Edition",
+        "author": "Unknown Author",
+        "publisher": "Springer International Publishing",
+        "isbn": "9783030133979",
+        "inventory": {
+            "qty": 4.0,
+            "price": 131783.0,
+            "total": 527133.0
+        }
+    },
+    "embedded_system_interfacing_design_": {
+        "title": "Embedded System Interfacing: Design for the Internet-of-Things (IoT) and Cyber-Physical Systems (CPS) 1st Edition",
+        "author": "Peter Marwedel",
+        "publisher": "collection",
+        "isbn": "9783030609108",
+        "inventory": {
+            "qty": 4.0,
+            "price": 95337.0,
+            "total": 381347.0
+        }
+    },
+    "logic_synthesis_for_compositional_m": {
+        "title": "Logic Synthesis for Compositional Microprogram Control Units (Lecture Notes in Electrical Engineering) 2008th Edition",
+        "author": "Alexander Barkalov, Larysa Titarenko, Kazimierz Krzywicki",
+        "publisher": "CRC Press",
+        "isbn": "9781040263839",
+        "inventory": {
+            "qty": 2.0,
+            "price": 307334.0,
+            "total": 614667.0
+        }
+    },
+    "design_of_digital_systems_and_devic": {
+        "title": "Design of Digital Systems and Devices (Lecture Notes in Electrical Engineering) 2011th Edition",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "9783030002534",
+        "inventory": {
+            "qty": 2.0,
+            "price": 280654.0,
+            "total": 561309.0
+        }
+    },
+    "the_circuit_designer_s_companion_2n": {
+        "title": "The Circuit Designer's Companion 2nd Edition",
+        "author": "Unknown Author",
+        "publisher": "Unknown Publisher",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": 2.0,
+            "price": 137524.0,
+            "total": 275049.0
+        }
+    },
+    "high_speed_digital_design_a_handboo": {
+        "title": "High Speed Digital Design: A Handbook of Black Magic 1st Edition",
+        "author": "Unknown Author",
+        "publisher": "collection",
+        "isbn": "9781420005967",
+        "inventory": {
+            "qty": 2.0,
+            "price": 153594.0,
+            "total": 307187.0
+        }
+    },
+    "total": {
+        "title": "Total",
+        "author": "Not Found",
+        "publisher": "Not Found",
+        "isbn": "N/A",
+        "inventory": {
+            "qty": NaN,
+            "price": 12438228.44,
+            "total": 42658034.2
+        }
+    }
+}

@@ -1,0 +1,1262 @@
+[
+    {
+        "NO":1.0,
+        "Description":"Introduction to probability and statistics for engineers and scientists: Third Edition",
+        "Quantity":3.0,
+        "Unit price":440751.0,
+        "Total Price p":1322254.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":2.0,
+        "Description":"Discrete Mathematics and its Applications: Seventh Edition",
+        "Quantity":3.0,
+        "Unit price":234235.0,
+        "Total Price p":702706.0,
+        "Author":"2",
+        "ISBN":"9780763753818"
+    },
+    {
+        "NO":3.0,
+        "Description":"Applied Numerical Analysis: Seventh Edition",
+        "Quantity":3.0,
+        "Unit price":94320.0,
+        "Total Price p":282960.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":4.0,
+        "Description":"Linear Algebra and Its Applications, 4th Edition",
+        "Quantity":3.0,
+        "Unit price":114073.0,
+        "Total Price p":342219.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":5.0,
+        "Description":"Discrete and Combinatorial Mathematics: 5th edition",
+        "Quantity":3.0,
+        "Unit price":235883.0,
+        "Total Price p":707650.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":6.0,
+        "Description":"Differential Equations and Boundary Values Problems. Computing and Modeling: 5 edition",
+        "Quantity":3.0,
+        "Unit price":235883.0,
+        "Total Price p":707650.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":7.0,
+        "Description":"Introduction to Graph Theory",
+        "Quantity":3.0,
+        "Unit price":170000.0,
+        "Total Price p":510000.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":null,
+        "Description":"Second Edition",
+        "Quantity":null,
+        "Unit price":null,
+        "Total Price p":null,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":8.0,
+        "Description":"Single Variable Calculus Early transcendental:  Eighth edition",
+        "Quantity":3.0,
+        "Unit price":251539.0,
+        "Total Price p":754618.0,
+        "Author":"2",
+        "ISBN":"9780763753818"
+    },
+    {
+        "NO":9.0,
+        "Description":"Cambridge Grammar of English",
+        "Quantity":1.0,
+        "Unit price":228907.0,
+        "Total Price p":228907.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":10.0,
+        "Description":"Curriculum Development: A Textbook for Students ",
+        "Quantity":1.0,
+        "Unit price":20790.0,
+        "Total Price p":20790.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":11.0,
+        "Description":"Practical English Usage ",
+        "Quantity":1.0,
+        "Unit price":191003.0,
+        "Total Price p":191003.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":12.0,
+        "Description":"The Practice of English Language Teaching. (3rd Ed).",
+        "Quantity":1.0,
+        "Unit price":54483.0,
+        "Total Price p":54483.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":13.0,
+        "Description":"A communicative grammar of English third edition",
+        "Quantity":1.0,
+        "Unit price":142387.0,
+        "Total Price p":142387.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":14.0,
+        "Description":"A field guide for science writers, second edition",
+        "Quantity":1.0,
+        "Unit price":29672.0,
+        "Total Price p":29672.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":15.0,
+        "Description":"A guide to research and writing, third edition",
+        "Quantity":1.0,
+        "Unit price":59163.0,
+        "Total Price p":59163.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":16.0,
+        "Description":"A practical course in English pronunciation With CD",
+        "Quantity":1.0,
+        "Unit price":59163.0,
+        "Total Price p":59163.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":17.0,
+        "Description":"A university grammar of English",
+        "Quantity":1.0,
+        "Unit price":22907.0,
+        "Total Price p":22907.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":18.0,
+        "Description":"A workbook on english grammar and composition",
+        "Quantity":1.0,
+        "Unit price":146507.0,
+        "Total Price p":146507.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":19.0,
+        "Description":"Academic writing for graduates students : Essential tasks and skills ,second edition",
+        "Quantity":1.0,
+        "Unit price":17139.0,
+        "Total Price p":17139.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":20.0,
+        "Description":"Advanced English grammar : A self-study reference and practice book for advanced south asian students,with answers",
+        "Quantity":6.0,
+        "Unit price":39991.0,
+        "Total Price p":239947.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":21.0,
+        "Description":"Advanced grammar in use : A self-study reference and practice book for advanced learners of English,with answers",
+        "Quantity":1.0,
+        "Unit price":28181.0,
+        "Total Price p":28181.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":22.0,
+        "Description":"Advanced grammar in use,second edition : A self-study reference and practice book for advanced learners of English,with answers",
+        "Quantity":1.0,
+        "Unit price":43507.0,
+        "Total Price p":43507.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":23.0,
+        "Description":"Beyond words : Cultural texts for Reading and writing 2nd Edition",
+        "Quantity":1.0,
+        "Unit price":64107.0,
+        "Total Price p":64107.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":24.0,
+        "Description":"Cambridge advanced learner's dictionary",
+        "Quantity":1.0,
+        "Unit price":113547.0,
+        "Total Price p":113547.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":25.0,
+        "Description":"Cambridge English for job- hunting",
+        "Quantity":2.0,
+        "Unit price":72018.0,
+        "Total Price p":144035.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":26.0,
+        "Description":"Cambridge English Pronouncing Dictionary, 18th edition = With CD",
+        "Quantity":2.0,
+        "Unit price":53066.0,
+        "Total Price p":106131.0,
+        "Author":"2",
+        "ISBN":"9780521680875"
+    },
+    {
+        "NO":27.0,
+        "Description":"Collins Dictionary&Thesaurus",
+        "Quantity":1.0,
+        "Unit price":119315.0,
+        "Total Price p":119315.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":28.0,
+        "Description":"Collins English Dictionary&Thesaurus",
+        "Quantity":1.0,
+        "Unit price":27851.0,
+        "Total Price p":27851.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":29.0,
+        "Description":"Compact oxford Dictionary,thesaurus ,and word power guide",
+        "Quantity":2.0,
+        "Unit price":38234.0,
+        "Total Price p":76467.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":30.0,
+        "Description":"Current english grammar and usage with composition",
+        "Quantity":2.0,
+        "Unit price":62954.0,
+        "Total Price p":125907.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":31.0,
+        "Description":"English grammar in use, third edition : A reference and practical book for intermediate students of english",
+        "Quantity":1.0,
+        "Unit price":18787.0,
+        "Total Price p":18787.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":32.0,
+        "Description":"English grammar just for you",
+        "Quantity":2.0,
+        "Unit price":782000.0,
+        "Total Price p":1564000.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":33.0,
+        "Description":"English literature, Enlarged edition",
+        "Quantity":3.0,
+        "Unit price":71555.0,
+        "Total Price p":214666.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":34.0,
+        "Description":"English pronunciation in use : Self-study and classroom use",
+        "Quantity":1.0,
+        "Unit price":31312.0,
+        "Total Price p":31312.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":35.0,
+        "Description":"Essential system administration Second edition",
+        "Quantity":1.0,
+        "Unit price":35267.0,
+        "Total Price p":35267.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":36.0,
+        "Description":"Essentials of assessment report writing",
+        "Quantity":1.0,
+        "Unit price":228907.0,
+        "Total Price p":228907.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":37.0,
+        "Description":"Great writing 4 : Great essays,third edition",
+        "Quantity":1.0,
+        "Unit price":12278.0,
+        "Total Price p":12278.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":38.0,
+        "Description":"How to read better and faster, fourth edition",
+        "Quantity":1.0,
+        "Unit price":68227.0,
+        "Total Price p":68227.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":39.0,
+        "Description":"How to read faster and recall more Learn the art of speed reading with maximum recall",
+        "Quantity":1.0,
+        "Unit price":3296.0,
+        "Total Price p":3296.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":40.0,
+        "Description":"How to research, third edition",
+        "Quantity":1.0,
+        "Unit price":59987.0,
+        "Total Price p":59987.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":41.0,
+        "Description":"How to write essays : A step-by-step guide for all levels,with sample essays 2nd edition",
+        "Quantity":1.0,
+        "Unit price":31147.0,
+        "Total Price p":31147.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":42.0,
+        "Description":"Modern English grammar : Structure,meanings and usage",
+        "Quantity":2.0,
+        "Unit price":54714.0,
+        "Total Price p":109427.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":43.0,
+        "Description":"Longman Dictionary of contemporary English",
+        "Quantity":2.0,
+        "Unit price":9394.0,
+        "Total Price p":18787.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":44.0,
+        "Description":"Oxford Advanced learner's dictionary of current english, 8th edition",
+        "Quantity":2.0,
+        "Unit price":17634.0,
+        "Total Price p":35267.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":45.0,
+        "Description":"Oxford dictionary of English, second edition, revised",
+        "Quantity":1.0,
+        "Unit price":213440.0,
+        "Total Price p":213440.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":46.0,
+        "Description":"Oxford dictionary of English, third edition",
+        "Quantity":1.0,
+        "Unit price":68227.0,
+        "Total Price p":68227.0,
+        "Author":"2",
+        "ISBN":"9780199571123"
+    },
+    {
+        "NO":47.0,
+        "Description":"Oxford english for electronics",
+        "Quantity":7.0,
+        "Unit price":29895.0,
+        "Total Price p":209263.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":48.0,
+        "Description":"Oxford English for information technology : Teacher's guide",
+        "Quantity":10.0,
+        "Unit price":52242.0,
+        "Total Price p":522416.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":49.0,
+        "Description":"Panorama Reading 3 Student Book: Building Perspective Through Reading 1st Edition",
+        "Quantity":1.0,
+        "Unit price":8116.0,
+        "Total Price p":8116.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":50.0,
+        "Description":"Python Machine Learning From Scratch - Step by Step Guide with Scikit-Learn and TensorFlow",
+        "Quantity":6.0,
+        "Unit price":75918.0,
+        "Total Price p":455506.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":51.0,
+        "Description":"Transformative Artificial Intelligence (AI) Driverless Self-Driving Cars: Practical Advances in AI and Machine Learning",
+        "Quantity":4.0,
+        "Unit price":40129.0,
+        "Total Price p":160515.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":52.0,
+        "Description":"Python Machine Learning: A Technical Approach To Python Machine Learning For Beginners",
+        "Quantity":6.0,
+        "Unit price":26807.0,
+        "Total Price p":160843.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":53.0,
+        "Description":"Robot is the Boss: How to do Business with Artificial Intelligence",
+        "Quantity":4.0,
+        "Unit price":157137.0,
+        "Total Price p":628547.0,
+        "Author":"2",
+        "ISBN":"9783662557044"
+    },
+    {
+        "NO":54.0,
+        "Description":"Building Intelligent Systems: A Guide to Machine Learning Engineering",
+        "Quantity":4.0,
+        "Unit price":41777.0,
+        "Total Price p":167107.0,
+        "Author":"2",
+        "ISBN":"9781999579579"
+    },
+    {
+        "NO":55.0,
+        "Description":"Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition",
+        "Quantity":4.0,
+        "Unit price":74737.0,
+        "Total Price p":298947.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":56.0,
+        "Description":"Python Data Science Handbook: Essential Tools for Working with Data 1st Edition",
+        "Quantity":12.0,
+        "Unit price":77098.0,
+        "Total Price p":925181.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":57.0,
+        "Description":"Deep Learning (Adaptive Computation and Machine Learning series)",
+        "Quantity":4.0,
+        "Unit price":103742.0,
+        "Total Price p":414966.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":58.0,
+        "Description":"PHP & MySQL: The Missing Manual",
+        "Quantity":12.0,
+        "Unit price":26587.0,
+        "Total Price p":319046.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":59.0,
+        "Description":"PHP and MySQL Web Development",
+        "Quantity":10.0,
+        "Unit price":72978.0,
+        "Total Price p":729784.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":60.0,
+        "Description":"Programming PHP: Creating Dynamic Web Pages ",
+        "Quantity":12.0,
+        "Unit price":35898.0,
+        "Total Price p":430781.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":61.0,
+        "Description":"Learning PHP, MySQL, JavaScript, & CSS: A Step-by-Step Guide to Creating Dynamic Websites",
+        "Quantity":12.0,
+        "Unit price":13650.0,
+        "Total Price p":163805.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":62.0,
+        "Description":"Murach\u2019s PHP and MySQL",
+        "Quantity":6.0,
+        "Unit price":77098.0,
+        "Total Price p":462590.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":63.0,
+        "Description":"PHP In Action: Objects, Design, Agility: Modern Software Practices For Php",
+        "Quantity":6.0,
+        "Unit price":52378.0,
+        "Total Price p":314270.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":64.0,
+        "Description":"PHP: A Beginner\u2019s Guide",
+        "Quantity":11.0,
+        "Unit price":60618.0,
+        "Total Price p":666802.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":65.0,
+        "Description":"Head First PHP & MySQL",
+        "Quantity":12.0,
+        "Unit price":36525.0,
+        "Total Price p":438295.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":66.0,
+        "Description":"PHP & MySQL Novice to Ninja",
+        "Quantity":12.0,
+        "Unit price":33426.0,
+        "Total Price p":401117.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":67.0,
+        "Description":"The Joy of PHP Programming: A Beginner\u2019s Guide to Programming Interactive Web Applications with PHP and MySQL",
+        "Quantity":12.0,
+        "Unit price":28153.0,
+        "Total Price p":337833.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":68.0,
+        "Description":"Learn Python 3 the Hard Way",
+        "Quantity":12.0,
+        "Unit price":36558.0,
+        "Total Price p":438691.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":69.0,
+        "Description":"Effective Computation in Physics: Field Guide to Research with Python",
+        "Quantity":6.0,
+        "Unit price":57954.0,
+        "Total Price p":347726.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":70.0,
+        "Description":"Think Python: How to Think Like a Computer Scientist, 2nd edition",
+        "Quantity":4.0,
+        "Unit price":51665.0,
+        "Total Price p":206659.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":71.0,
+        "Description":"Invent Your Own Computer Games with Python, 4th edition",
+        "Quantity":12.0,
+        "Unit price":29702.0,
+        "Total Price p":356423.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":72.0,
+        "Description":"Head-First Python, 2nd edition",
+        "Quantity":12.0,
+        "Unit price":87646.0,
+        "Total Price p":1051747.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":73.0,
+        "Description":"Python Crash Course",
+        "Quantity":12.0,
+        "Unit price":39013.0,
+        "Total Price p":468157.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":74.0,
+        "Description":"Lab Manual for Murach's HTML5 and CSS3",
+        "Quantity":2.0,
+        "Unit price":156066.0,
+        "Total Price p":312131.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":75.0,
+        "Description":"Html5 a Complete Guide",
+        "Quantity":3.0,
+        "Unit price":139475.0,
+        "Total Price p":418426.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":76.0,
+        "Description":"HTML5 for Masterminds",
+        "Quantity":2.0,
+        "Unit price":40706.0,
+        "Total Price p":81411.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":77.0,
+        "Description":"Mastering Bootstrap 4: Master the latest version of Bootstrap 4 to build highly customized responsive web apps",
+        "Quantity":2.0,
+        "Unit price":62954.0,
+        "Total Price p":125907.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":78.0,
+        "Description":"HTML, CSS, and JavaScript All in One",
+        "Quantity":2.0,
+        "Unit price":40706.0,
+        "Total Price p":81411.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":79.0,
+        "Description":"Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5",
+        "Quantity":2.0,
+        "Unit price":48946.0,
+        "Total Price p":97891.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":80.0,
+        "Description":"Getting Mean with Mongo, Express, Angular, and Node",
+        "Quantity":2.0,
+        "Unit price":50594.0,
+        "Total Price p":101187.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":81.0,
+        "Description":"JavaScript for impatient programmers",
+        "Quantity":2.0,
+        "Unit price":34114.0,
+        "Total Price p":68227.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":82.0,
+        "Description":"Web Programming with HTML5, CSS, and JavaScript Pap\/Psc Edition,",
+        "Quantity":2.0,
+        "Unit price":149474.0,
+        "Total Price p":298947.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":83.0,
+        "Description":"Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Moderns JS Libraries,",
+        "Quantity":2.0,
+        "Unit price":39058.0,
+        "Total Price p":78115.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":84.0,
+        "Description":"Advanced JavaScript: Speed up web development with the powerful features and benefits of JavaScript",
+        "Quantity":2.0,
+        "Unit price":38234.0,
+        "Total Price p":76467.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":85.0,
+        "Description":"Fundamentals of Database Systems. 7th Ed",
+        "Quantity":5.0,
+        "Unit price":260845.0,
+        "Total Price p":1304227.0,
+        "Author":"2",
+        "ISBN":"9781292097619"
+    },
+    {
+        "NO":86.0,
+        "Description":"Fundamentals of Database Systems. 5th Ed",
+        "Quantity":5.0,
+        "Unit price":157845.0,
+        "Total Price p":789227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":87.0,
+        "Description":"Database Systems 4th Ed",
+        "Quantity":5.0,
+        "Unit price":87805.0,
+        "Total Price p":439027.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":88.0,
+        "Description":"Database Concepts 8th Ed",
+        "Quantity":5.0,
+        "Unit price":153725.0,
+        "Total Price p":768627.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":89.0,
+        "Description":"Concepts of Database Management",
+        "Quantity":5.0,
+        "Unit price":116645.0,
+        "Total Price p":583227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":90.0,
+        "Description":"Database Systems: Design, Implementation, & Management",
+        "Quantity":5.0,
+        "Unit price":153725.0,
+        "Total Price p":768627.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":91.0,
+        "Description":"Databases Illuminated",
+        "Quantity":5.0,
+        "Unit price":157845.0,
+        "Total Price p":789227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":92.0,
+        "Description":"Computer Networking: A Top-Down Approach (7th Edition)",
+        "Quantity":5.0,
+        "Unit price":149605.44,
+        "Total Price p":748027.2,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":93.0,
+        "Description":"Computer Networks (5th Edition)",
+        "Quantity":5.0,
+        "Unit price":150000.0,
+        "Total Price p":750000.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":94.0,
+        "Description":"Networking for Beginners",
+        "Quantity":5.0,
+        "Unit price":34245.0,
+        "Total Price p":171227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":95.0,
+        "Description":"Computer Networking: A Top-Down Approach (6th Edition)",
+        "Quantity":5.0,
+        "Unit price":75445.0,
+        "Total Price p":377227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":96.0,
+        "Description":"Computer Networks and Internets, 6Th Edition",
+        "Quantity":5.0,
+        "Unit price":34245.0,
+        "Total Price p":171227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":97.0,
+        "Description":"Network Security Essentials Applications and Standards (5th Edition)",
+        "Quantity":5.0,
+        "Unit price":162130.0,
+        "Total Price p":810651.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":98.0,
+        "Description":"Data communications and Computer Networks: A Business User's Approach",
+        "Quantity":5.0,
+        "Unit price":162789.0,
+        "Total Price p":813947.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":99.0,
+        "Description":"Introduction to Computer Networks and Cybersecurity",
+        "Quantity":5.0,
+        "Unit price":145485.0,
+        "Total Price p":727427.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":100.0,
+        "Description":"Wireless Networking Absolute Beginner's Guide",
+        "Quantity":5.0,
+        "Unit price":34245.0,
+        "Total Price p":171227.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":101.0,
+        "Description":"Data Structures and Algorithms in Java Second Edition",
+        "Quantity":4.0,
+        "Unit price":50017.0,
+        "Total Price p":200067.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":102.0,
+        "Description":"Code Complete: A Practical Handbook of Software Construction, Second Edition",
+        "Quantity":4.0,
+        "Unit price":70617.0,
+        "Total Price p":282467.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":103.0,
+        "Description":"The Pragmatic Programmer: From Journeyman to Master 1st edition",
+        "Quantity":3.0,
+        "Unit price":85915.0,
+        "Total Price p":257746.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":104.0,
+        "Description":"Principles of Programming: Computer programming for kids and beginners Kindle Edition  ",
+        "Quantity":5.0,
+        "Unit price":31114.0,
+        "Total Price p":155571.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":105.0,
+        "Description":"The C Programming Language (2nd Edition)",
+        "Quantity":6.0,
+        "Unit price":71798.0,
+        "Total Price p":430786.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":106.0,
+        "Description":"Learn C the Hard Way",
+        "Quantity":4.0,
+        "Unit price":58257.0,
+        "Total Price p":233027.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":107.0,
+        "Description":"C Programming: A Modern Approach,2 edition",
+        "Quantity":6.0,
+        "Unit price":154198.0,
+        "Total Price p":925186.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":108.0,
+        "Description":"Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14;1 edition",
+        "Quantity":4.0,
+        "Unit price":58669.0,
+        "Total Price p":234675.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":109.0,
+        "Description":"The C++ Programming Language (4th Edition)",
+        "Quantity":4.0,
+        "Unit price":70617.0,
+        "Total Price p":282467.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":110.0,
+        "Description":"Accelerated C++: Practical Programming by Example; 1 edition",
+        "Quantity":4.0,
+        "Unit price":72347.0,
+        "Total Price p":289389.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":111.0,
+        "Description":"Programming: Principles and Practice Using C++; 1 edition ",
+        "Quantity":2.0,
+        "Unit price":26862.0,
+        "Total Price p":53725.0,
+        "Author":"2",
+        "ISBN":"978032154372"
+    },
+    {
+        "NO":112.0,
+        "Description":"Java Programming for Kids, Parents and Grandparents (java Kids) by Yuri Fain )",
+        "Quantity":6.0,
+        "Unit price":88278.0,
+        "Total Price p":529666.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":113.0,
+        "Description":"Head First Java; 2nd edition ",
+        "Quantity":4.0,
+        "Unit price":111817.0,
+        "Total Price p":447267.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":114.0,
+        "Description":"Head First Design Patterns; 1st edition",
+        "Quantity":4.0,
+        "Unit price":54137.0,
+        "Total Price p":216547.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":115.0,
+        "Description":"Effective Java; 3 edition",
+        "Quantity":2.0,
+        "Unit price":50676.0,
+        "Total Price p":101352.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":116.0,
+        "Description":"Java Concurrency in Practice; 1 edition ",
+        "Quantity":2.0,
+        "Unit price":46556.0,
+        "Total Price p":93112.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":117.0,
+        "Description":"Java Generics and Collections; 1 edition ",
+        "Quantity":4.0,
+        "Unit price":54796.0,
+        "Total Price p":219184.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":118.0,
+        "Description":"Java Performance; 1 edition ",
+        "Quantity":2.0,
+        "Unit price":54714.0,
+        "Total Price p":109427.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":119.0,
+        "Description":"Java Puzzlers; 1 edition ",
+        "Quantity":2.0,
+        "Unit price":50676.0,
+        "Total Price p":101352.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":120.0,
+        "Description":"Head First Object-Oriented Analysis and Design; 1 edition",
+        "Quantity":4.0,
+        "Unit price":70617.0,
+        "Total Price p":282467.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":121.0,
+        "Description":"Thinking in Java; 4 edition ",
+        "Quantity":4.0,
+        "Unit price":78857.0,
+        "Total Price p":315427.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":122.0,
+        "Description":"Java SE 8 for the Really Impatient; 1 edition",
+        "Quantity":2.0,
+        "Unit price":50676.0,
+        "Total Price p":101352.0,
+        "Author":"2",
+        "ISBN":"9781430265740"
+    },
+    {
+        "NO":123.0,
+        "Description":"Java in a Nutshell, \u00c9dition : 7th Revised edition ",
+        "Quantity":2.0,
+        "Unit price":51418.0,
+        "Total Price p":102835.0,
+        "Author":"2",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":124.0,
+        "Description":"Soft Skills: The software developer's life manual ",
+        "Quantity":1.0,
+        "Unit price":46638.0,
+        "Total Price p":46638.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":125.0,
+        "Description":"Android Programming: The Big Nerd Ranch Guide (3rd Edition) ",
+        "Quantity":4.0,
+        "Unit price":70617.0,
+        "Total Price p":282467.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":126.0,
+        "Description":"Mobile App Development with HTML5 1st Edition By ",
+        "Quantity":2.0,
+        "Unit price":30076.0,
+        "Total Price p":60152.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":127.0,
+        "Description":"Beginning Hybrid Mobile Application Development 1st ed. Edition",
+        "Quantity":2.0,
+        "Unit price":55538.0,
+        "Total Price p":111075.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":128.0,
+        "Description":"Getting Started Multimedia Design ",
+        "Quantity":1.0,
+        "Unit price":29994.0,
+        "Total Price p":29994.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":129.0,
+        "Description":"Designing Brand Identity: An Essential Guide for the Whole Branding Team 3rd Edition",
+        "Quantity":2.0,
+        "Unit price":103330.0,
+        "Total Price p":206659.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":130.0,
+        "Description":"The Elements of Typographic Style: Version 4.0: 20th Anniversary Edition Fourth Edition",
+        "Quantity":1.0,
+        "Unit price":23402.0,
+        "Total Price p":23402.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":131.0,
+        "Description":"The Animator's Survival Kit: A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators; Fourth Edition, Revised edition ",
+        "Quantity":2.0,
+        "Unit price":46474.0,
+        "Total Price p":92947.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":132.0,
+        "Description":"Cartoon Animation ( the Collector's Series) Paperback \u2013 1994",
+        "Quantity":2.0,
+        "Unit price":30158.0,
+        "Total Price p":60317.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":133.0,
+        "Description":"Foundations of Embedded Systems (Studies in Systems, Decision and Control) 1st ed. 2019 Edition",
+        "Quantity":4.0,
+        "Unit price":131783.0,
+        "Total Price p":527133.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":134.0,
+        "Description":"Embedded System Interfacing: Design for the Internet-of-Things (IoT) and Cyber-Physical Systems (CPS) 1st Edition",
+        "Quantity":4.0,
+        "Unit price":95337.0,
+        "Total Price p":381347.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":135.0,
+        "Description":"Logic Synthesis for Compositional Microprogram Control Units (Lecture Notes in Electrical Engineering) 2008th Edition",
+        "Quantity":2.0,
+        "Unit price":307334.0,
+        "Total Price p":614667.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":136.0,
+        "Description":"Design of Digital Systems and Devices (Lecture Notes in Electrical Engineering) 2011th Edition",
+        "Quantity":2.0,
+        "Unit price":280654.0,
+        "Total Price p":561309.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":137.0,
+        "Description":"The Circuit Designer's Companion 2nd Edition",
+        "Quantity":2.0,
+        "Unit price":137524.0,
+        "Total Price p":275049.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":138.0,
+        "Description":"High Speed Digital Design: A Handbook of Black Magic 1st Edition",
+        "Quantity":2.0,
+        "Unit price":153594.0,
+        "Total Price p":307187.0,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    },
+    {
+        "NO":null,
+        "Description":"Total",
+        "Quantity":null,
+        "Unit price":12438228.4399999995,
+        "Total Price p":42658034.200000003,
+        "Author":"Unknown",
+        "ISBN":"N\/A"
+    }
+]
